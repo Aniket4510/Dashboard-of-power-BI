@@ -21,8 +21,9 @@ It showcases data analysis, interactive visualizations, and insights using Power
 
 ---
 
+##  DASGBOARD IMAGE LINK
 
-
+   https://github.com/Aniket4510/Dashboard-of-power-BI/blob/main/Screenshot%202025-09-27%20214503.png
 ---
 
 ## ⚡ How to Use
