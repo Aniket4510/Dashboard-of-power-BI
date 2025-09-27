@@ -21,10 +21,7 @@ It showcases data analysis, interactive visualizations, and insights using Power
 
 ---
 
-## 📸 Dashboard Preview
-(Add a screenshot of your dashboard here)
 
-![Dashboard Preview](screenshots/dashboard-preview.png)
 
 ---
 
